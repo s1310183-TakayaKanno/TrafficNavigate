@@ -3,5 +3,7 @@
 ※Completeが完成版です。
 ※Jsonライブラリを使うためにjarを追加する必要があります。
 ※AizuRouteWithGoogleMaps.javaのURLはAPIキーの認証情報であり、セキュリティの面で消しています。
+
+実行結果はIssuesのResultにのっけています。
   ご不便をおかけしますが、よろしくお願いします。
 
